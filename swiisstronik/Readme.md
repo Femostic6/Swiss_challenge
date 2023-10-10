@@ -1,0 +1,2 @@
+Swisstronik testnet address : 0x38776A17C106b708aa37F33c925768CB866DC34E
+mumbai testnet address : 0x38776A17C106b708aa37F33c925768CB866DC34E
